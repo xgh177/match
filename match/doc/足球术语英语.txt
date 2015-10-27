@@ -1,0 +1,86 @@
+nspf 非让球
+spf 让球
+
+主队
+host team
+客队
+visiting team
+
+主队 home 
+客队 away
+中立场地 neutral 
+半场进球数harf time goals
+半全场 harf/full time
+波胆      correct score
+波胆组合 correct score special 
+标准盘win/draw/win
+全场入球总数total goals
+首名入球队员first scorer
+亚洲盘Asian handicap
+入球单双数odd even
+上下盘over/under
+积分预测 scorecast
+
+球场－court 
+
+前锋－forwards
+
+后卫－guards
+
+中锋－center
+
+后场－backcourt
+
+前场－frontcourt
+
+组织后卫－point guard
+
+得分后卫－shooting guard
+
+大前锋－power forward
+
+小前锋－small forward
+
+篮框－rim,basket
+
+争球－jump ball
+
+攻方－offense
+
+守方－defence
+
+计时器－shot clock
+
+打成平分－tie
+
+加时赛－overtime(OT)
+
+运球－dribbling
+
+身前快速运球－speed
+
+双手交替运球－crossover
+
+身后运球－behind-the-back
+
+腿间运球－between－the－leg
+
+转身运球－spin
+
+传球－pass
+
+胸部传球－chest
+
+反弹传球－bounce
+
+过顶传球－overhead
+
+大力传球－baseball－type
+
+身后传球－behind－the－back
+
+投篮方式－shooting form
+
+直接篮下得分－layup
+
+大力灌篮－the dunk shot

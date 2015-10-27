@@ -1,0 +1,5 @@
+xml数据接口:
+
+1、当前欧赔及亚盘数据
+http://trade.500.com/static/public/jczq/xml/hisdata/2015/1027/odds.xml
+2015是年份，1027是指10月27日
