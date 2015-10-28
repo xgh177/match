@@ -60,5 +60,21 @@ public class Dict {
 	 */
 	public static final String ouzhi_href="me_href";
 	
+	/***
+	 * 比赛次数
+	 */
+	public static final String match_count="match_count";
+	/***
+	 * 比赛胜的次数
+	 */
+	public static final String win_count="win_count";
+	/***
+	 * 比赛平的次数
+	 */
+	public static final String draw_count="draw_count";
+	/***
+	 * 比赛负的次数
+	 */
+	public static final String lost_count="lost_count";
 	
 }
